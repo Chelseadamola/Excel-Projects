@@ -1,4 +1,4 @@
-# Advanced-Excel-Projects
+### Excel-Projects
 
 👋 Welcome to my Excel projects repository! Here you will find a collection of all the links to my latest Excel projects in one place.
 
