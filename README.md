@@ -10,4 +10,4 @@
 
 1. https://github.com/Chelseadamola/Fake-World-Call-Center-Analysis-with-Excel
 
-2. https://github.com/Chelseadamola/Bike-Sales-Analysis-with-Excel
+2. https://github.com/Chelseadamola/Bikes-Sales-Analysis-with-Excel
